@@ -1,0 +1,96 @@
+
+Hopital details
+[
+    {
+        "_id": "5f76e7af484b201c817b94c1",
+        "hid": "H1",
+        "name": "Apollo Hospital",
+        "location": "Narayanguda",
+        "address": "Hyderabad",
+        "contactno": "65599009"
+    },
+    {
+        "_id": "5f76e7af484b201c817b94c2",
+        "hid": "H2",
+        "name": "Kamineni",
+        "location": "King Koti",
+        "address": "Hyderabad",
+        "contactno": "65599008"
+    },
+    {
+        "_id": "5f76e7af484b201c817b94c3",
+        "hid": "H3",
+        "name": "KIIMS",
+        "location": "Secunderabad",
+        "address": "Hyderabad",
+        "contactno": "65599007"
+    }
+]
+
+Ventilator Details
+
+[
+    {
+        "_id": "5f76e7af484b201c817b94c4",
+        "hid": "H1",
+        "vid": "H1V1",
+        "status": "available",
+        "name": "Apollo Hospital"
+    },
+    {
+        "_id": "5f76e7af484b201c817b94c5",
+        "hid": "H1",
+        "vid": "H1V2",
+        "status": "available",
+        "name": "Apollo Hospital"
+    },
+    {
+        "_id": "5f76e7af484b201c817b94c6",
+        "hid": "H1",
+        "vid": "H1V3",
+        "status": "in-maintenance",
+        "name": "Apollo Hospital"
+    },
+    {
+        "_id": "5f76e7af484b201c817b94c7",
+        "hid": "H2",
+        "vid": "H2V1",
+        "status": "occupied",
+        "name": "Kamineni"
+    },
+    {
+        "_id": "5f76e7af484b201c817b94c8",
+        "hid": "H2",
+        "vid": "H2V2",
+        "status": "available",
+        "name": "Kamineni"
+    },
+    {
+        "_id": "5f76e7af484b201c817b94c9",
+        "hid": "H2",
+        "vid": "H2V3",
+        "status": "in-maintenance",
+        "name": "Kamineni"
+    },
+    {
+        "_id": "5f76e7af484b201c817b94cb",
+        "hid": "H3",
+        "vid": "H3V2",
+        "status": "available",
+        "name": "KIIMS"
+    },
+    {
+        "_id": "5f76e7af484b201c817b94cc",
+        "hid": "H3",
+        "vid": "H3V3",
+        "status": "in-maintenance",
+        "name": "KIIMS"
+    },
+    {
+        "_id": "5f76f11e125ec52eeca6c7c7",
+        "vid": "H1V5",
+        "hid": "51",
+        "status": "occupied",
+        "name": "Apollo Hospital"
+    }
+]
